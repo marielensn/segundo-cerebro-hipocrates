@@ -19,7 +19,7 @@ O objetivo central foi estruturar um ecossistema de conhecimento navegável e fu
 
 Abaixo está o mapa conceitual que sintetiza as ramificações de estudo consolidadas no Segundo Cérebro:
 
-![Mapa Mental - Filosofia da Célula Tumoral](assets/mapa-mental.png)
+![Mapa Mental - Filosofia da Célula Tumoral](assets/mapa-mental.png.png)
 
 ---
 
@@ -50,7 +50,7 @@ As evidências abaixo comprovam a aderência estrita do modelo às fontes de ref
 * **Pergunta:** *"De que forma o princípio de Hipócrates se aplica aos tratamentos atuais?"*
 * **Resposta:** O modelo demonstrou como o *Primum Non Nocere* baliza o cálculo de toxicidade na quimioterapia, o manejo de efeitos adversos e a personalização de protocolos na oncologia de precisão *(Citações: fontes [1], [2], [3])*.
 
-![Print - Princípio de Hipócrates](assets/chat-principios-atuais.png)
+![Print - Princípio de Hipócrates](assets/chat-principios-atuais.png.png)
 
 ---
 
@@ -67,7 +67,7 @@ As evidências abaixo comprovam a aderência estrita do modelo às fontes de ref
 
 > **Eucrasia** (harmonia humoral = saúde) versus **Discrasia** (desequilíbrio = doença) *(Fontes [2], [4])*.
 
-![Print - Teoria Humoral](assets/chat-teoria-humoral.png)
+![Print - Teoria Humoral](assets/chat-teoria-humoral.png.png)
 
 ---
 
@@ -75,7 +75,7 @@ As evidências abaixo comprovam a aderência estrita do modelo às fontes de ref
 * **Pergunta:** *"Qual é a função da proteína p53 na célula?"*
 * **Resposta:** Síntese da atuação da p53 como a **"guardiã do genoma"**, operando no controle do ciclo celular, no reparo de DNA contra mutações e na indução de apoptose quando o dano genético é irreversível *(Citações: fontes [1], [2], [4])*.
 
-![Print - Proteína p53](assets/chat-proteina-p53.png)
+![Print - Proteína p53](assets/chat-proteina-p53.png.png)
 
 ---
 
@@ -83,13 +83,13 @@ As evidências abaixo comprovam a aderência estrita do modelo às fontes de ref
 * **Pergunta:** *"Qual é o comportamento das pessoas no mundo atual sobre o câncer"*
 * **Resposta:** Identificação de uma mudança de postura: do paciente passivo para a parceria colaborativa médico-paciente e busca ativa por prevenção, nutrição e terapias complementares baseadas em evidências *(Citações: fontes [1], [2], [3], [4], [5])*.
 
-![Print - Comportamento Atual](assets/chat-comportamento-atual.png)
+![Print - Comportamento Atual](assets/chat-comportamento-atual.png.png)
 
 ---
 
 ## 📂 Artefatos do Projeto
 
-- 🗺️ **Mapa Mental:** [`assets/mapa-mental.png`](assets/mapa-mental.png)
+- 🗺️ **Mapa Mental:** [`assets/mapa-mental.png`](assets/mapa-mental.png.png)
 - 📑 **Slides de Apresentação:** [`docs/slides-resumo.pdf`](docs/slides-resumo.pdf)
   
 
@@ -113,7 +113,7 @@ Material visual didático com o roteiro completo da pesquisa e síntese teórica
 
 ### 🗺️ Mapa Mental Conceitual
 Visão esquemática das ramificações do conhecimento:
-- 🖼️ [Visualizar Mapa Mental em Alta Resolução](assets/mapa-mental.png)
+- 🖼️ [Visualizar Mapa Mental em Alta Resolução](assets/mapa-mental.png.png)
 
 
 ## 👩‍💻 Autoria
