@@ -115,6 +115,10 @@ Material visual didático com o roteiro completo da pesquisa e síntese teórica
 Visão esquemática das ramificações do conhecimento:
 - 🖼️ [Visualizar Mapa Mental em Alta Resolução](assets/mapa-mental.png.png)
 
+### 🔗 Caderno Interativo no NotebookLM
+- 🚀 [Acessar o Segundo Cérebro Compartilhado](https://notebook.google.com/notebook/c76cb5fe-c7aa-4445-82fd-2619750f2a13/preview)
+  
+---
 
 ## 👩‍💻 Autoria
 Desenvolvido por **Marielen S**, como parte do estudo de Segundo Cérebro com Inteligência Artificial e Curadoria de Conhecimento.
