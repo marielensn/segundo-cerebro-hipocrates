@@ -90,7 +90,7 @@ As evidências abaixo comprovam a aderência estrita do modelo às fontes de ref
 ## 📂 Artefatos do Projeto
 
 - 🗺️ **Mapa Mental:** [`assets/mapa-mental.png`](assets/mapa-mental.png.png)
-- 📑 **Slides de Apresentação:** [`docs/slides-resumo.pdf`](docs/slides-resumo.pdf)
+- 📑 **Slides de Apresentação:** [`docs/slides-resumo.pdf`](docs/slides-resumo.pdf.pdf)
   
 
 Devido à alta qualidade e duração dos materiais audiovisuais, os arquivos pesados estão hospedados diretamente no [GitHub Releases](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases) do projeto.
